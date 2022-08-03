@@ -1,0 +1,28 @@
+Yogesh Rana CISC3142 HW#1 
+This is output file Of HW#1.
+
+Leon Cook got grade: B
+Sherlyn Edwards got grade: B
+Darion Branch got grade: A
+Jayce Kline got grade: C
+Simeon Wilkerson got grade: D
+Quinn Bennett got grade: B
+Nathaly Jarvis got grade: B
+Xzavier Cooper got grade: C
+Whitney Solis got grade: B
+Dakota Estes got grade: A
+Cristina Davis got grade: C
+Enrique Harper got grade: D
+Anastasia Lowe got grade: C
+Sophia King got grade: B
+Lexi Carter got grade: B
+Daniela Serrano got grade: C
+Evelyn Lowery got grade: A
+Areli Baxter got grade: B
+Samuel Wyatt got grade: B
+Alyvia Davis got grade: A
+
+
+The mean of the grade in class is: 84.05
+The student who got highest in the class is: Dakota Estes with grade: 96
+The Standard Deviation of the gardes of the class is: 7.95911
